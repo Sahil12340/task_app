@@ -25,7 +25,7 @@ class _LoginScreenState extends State<LoginScreen> {
             alignment: Alignment.center,
             margin: EdgeInsets.only(top: 20.0, bottom: 30.0),
             child: new Image.asset(
-              'assets/images/fruit.webp',
+              'assets/images/foodbasket.jpg',
               fit: BoxFit.cover,
               height: 180,
             ),
