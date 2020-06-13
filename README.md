@@ -1,6 +1,6 @@
 # task_app
 
-A new Flutter project.
+I Have created the app with the given task,i have changed the image present in the login screen. i have also implemented the autocomplete and search feature in the second screen.
 
 ## Getting Started
 
