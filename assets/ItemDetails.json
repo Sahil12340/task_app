@@ -1,0 +1,33 @@
+{
+	"itemDetails": [
+		{
+			"categoryId": 7,
+			"categories": "GROCERIES",
+			"itemId": 277,
+			"englishName": "AMARANTH/RAJGIRA",
+			"price": "50.00"
+		},
+
+		{
+			"categoryId": 7,
+			"categories": "GROCERIES",
+			"itemId": 97,
+			"englishName": "BAKING SODA",
+			"price": "20.00"
+		},
+		{
+			"categoryId": 6,
+			"categories": "FRUITS",
+			"itemId": 97,
+			"englishName": "APPLE - RED",
+			"price": "20.00"
+		},
+		{
+			"categoryId": 1,
+			"categories": "DAIRY PRODUCTS",
+			"itemId": 1,
+			"englishName": "BUTTER",
+			"price": "66.00"
+		}
+	]
+}
